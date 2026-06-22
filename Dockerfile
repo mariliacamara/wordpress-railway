@@ -1,3 +1,1 @@
 FROM wordpress:php8.3-apache
-
-RUN a2enmod rewrite
